@@ -1,0 +1,6 @@
+com/scraper/classes/HtmlParser.class
+com/scraper/ServletInitializer.class
+com/scraper/classes/Url.class
+com/scraper/controllers/WebCtrl.class
+com/scraper/Application.class
+com/scraper/classes/Html.class
